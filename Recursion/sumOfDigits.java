@@ -2,7 +2,7 @@ public class sumOfDigits {
 
     public static int sumOfDigits(int n) {
         // base case
-        if (n == 0) {
+        if (n == 0 || n < 0) {
             return 0;
         }
 
