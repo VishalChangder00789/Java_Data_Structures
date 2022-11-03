@@ -2,6 +2,7 @@
  * findMax
  */
 public class findMax {
+    // state the time in the commit
 
     public static int findMax(int arr[], int n) {
         if (n == 1) {
